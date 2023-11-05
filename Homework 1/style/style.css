@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
+.block1{
+
+    height: 350px;
+    background-color: rgb(228, 228, 235);
+    
+}
+
+.block{
+    padding: 15px 21px 15px 50px;
+    border-radius: 20px;
+    background-color: #34495E;
+    color: rgb(200, 195, 195);
+    margin: 20px;
+    
+}
+
+h1{
+    font-weight: lighter;
+    padding: 15px ;
+}
